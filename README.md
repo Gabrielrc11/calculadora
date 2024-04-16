@@ -2,7 +2,7 @@
 
 ## Requisitos:
 - NodeJS
-  - Instalar no site do python - <a href="https://nodejs.org/dist/v20.12.2/node-v20.12.2-x64.msi">Acesse aqui!</a>
+  - Instalar no site do nodejs - <a href="https://nodejs.org/dist/v20.12.2/node-v20.12.2-x64.msi">Acesse aqui!</a>
 
 ## Executando projeto
 1. Através do GIT clone o repositório do projeto:
