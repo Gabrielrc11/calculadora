@@ -2,12 +2,12 @@
 
 ## Requisitos:
 - NodeJS
-  - Instalar no site do nodejs - <a href="https://nodejs.org/dist/v20.12.2/node-v20.12.2-x64.msi">Acesse aqui!</a>
+  - Instalar NodeJS - <a href="https://nodejs.org/dist/v20.12.2/node-v20.12.2-x64.msi">Baixar!</a>
 
 ## Executando projeto
 1. Através do GIT clone o repositório do projeto:
     - ```git clone https://github.com/Gabrielrc11/calculadora.git```
-2. Entre dentro da pasta **calculadora** com o comando:
+2. Entre na pasta **calculadora** com o comando:
     - ```cd calculadora```
 3. Execute o seguinte comando para instalar as dependencias do Expo:
     - ```npm install --save-dev expo-cli```
