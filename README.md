@@ -9,7 +9,9 @@
     - ```git clone https://github.com/Gabrielrc11/calculadora.git```
 2. Entre dentro da pasta **calculadora** com o comando:
     - ```cd calculadora```
-4. Execulte o seguinte comando para rodar o projeto:
+3. Execute o seguinte comando para instalar as dependencias do Expo:
+    - ```npm install --save-dev expo-cli```
+4. Execute o seguinte comando para rodar o projeto:
     - ```npx expo start```
 > [!NOTE]
 > Para parar a execução do projeto use, no terminal, as teclas: ```Ctrl + C```
