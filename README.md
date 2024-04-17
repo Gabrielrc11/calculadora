@@ -19,7 +19,7 @@
 ### Prévia do projeto
 Se tudo tiver dado certo, é assim que você deve vizualizar o projeto no seu dispositivo através do Expo Go ou o emulador do Android ou IOS:
 <br>
-![App calculadora](Application.jpeg)
+<img src="Application.jpeg" alt="drawing" width="200"/>
 
 ## Padronizações
 ### Commits
