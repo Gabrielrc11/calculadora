@@ -18,8 +18,8 @@
 
 ### Prévia do projeto
 Se tudo tiver dado certo, é assim que você deve vizualizar o projeto no seu dispositivo através do Expo Go ou o emulador do Android ou IOS:
-<br>
-<img src="Application.jpeg" alt="drawing" width="200"/>
+<br><br>
+<img src="Application.jpeg" alt="Application" width="200"/>
 
 ## Padronizações
 ### Commits
@@ -59,8 +59,8 @@ Esses **préfixo** podem ser:
 
 ### Prévia do projeto
 If everything went well, this is how you should view the project on your device using Expo Go or the Android or IOS emulator:
-<br>
-![App calculator](Application.jpeg)
+<br><br>
+<img src="Application.jpeg" alt="Application" width="200"/>
 
 ## Standardizations
 ### Commits
