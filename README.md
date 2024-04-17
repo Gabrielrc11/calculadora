@@ -57,7 +57,7 @@ Esses **préfixo** podem ser:
 > [!NOTE]
 > To stop the execution of the project, use the terminal keys: ```Ctrl + C```
 
-### Prévia do projeto
+### Project preview
 If everything went well, this is how you should view the project on your device using Expo Go or the Android or IOS emulator:
 <br><br>
 <img src="Application.jpeg" alt="Application" width="200"/>
