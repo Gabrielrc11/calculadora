@@ -1,9 +1,3 @@
-<h1 align="center">
-    <a href="https://laravelcollective.com/tools/banner">
-        <img alt="Banner" title="#Banner" style="object-fit: cover;" src="./public/images/PrintScreen.png"  />
-    </a>
-</h1>
-
 # 📝 Calculadora
 
 <p align="center"> Aplicativo de calculadora desenvolvido para testar conhecimentos com React Native. </p>
