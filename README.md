@@ -94,11 +94,3 @@ calculadora/
     ├── types/          # Definições de tipos
     └── utils/          # Funções utilitárias
 ```
-
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## 👨‍💻 Desenvolvido por
-
-Seu Nome - [GitHub](https://github.com/seu-usuario)
